@@ -1,7 +1,7 @@
-import { FaFacebookSquare, FaGithub, FaLinkedin, FaLinkedinIn } from "react-icons/fa";
+import { FaFacebookSquare, FaGithub, FaLinkedin } from "react-icons/fa";
 const Footer = () => {
     return (
-        <div>
+        <div className="mt-10">
             <div className="border-t-2 border-[#e1a34c65]"></div>
             <footer className="footer p-10 bg-[#131F33] text-neutral-content">
                 <div>

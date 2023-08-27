@@ -2,7 +2,10 @@ import devgif from '../../../../public/dev.gif';
 const AboutMe = () => {
     return (
         <div>
-            <h1 className='text-5xl font-bold text-center pb-10'>About me</h1>
+            <div className='text-center pb-10'>
+                <p className='text-[#E1A34C]  uppercase pb-2'>-- I n t r o d u c t i o n</p>
+                <h1 className='text-5xl font-bold  '>Overview</h1>
+            </div>
             <div className="hero max-h-screen ">
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <img src={devgif} className="max-w-sm rounded-lg shadow-2xl " />

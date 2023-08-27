@@ -12,7 +12,7 @@ const Banner = () => {
                             <div className='text-[#E1A34C] text-5xl font-bold inline'>
                             <Typewriter
                                 options={{
-                                    strings: ['React Developer', 'Mern-Stack Developer'],
+                                    strings: ['React Developer_', 'MERN Stack Developer_'],
                                     autoStart: true,
                                     loop: true,
                                 }}
