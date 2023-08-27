@@ -6,7 +6,7 @@ const Banner = () => {
             <div className="hero min-h-screen">
                 <div className="hero-content flex-col lg:flex-row">
                     <img src={myImg} className="max-w-sm rounded-lg shadow-2xl" />
-                    <div className='ml-10'>
+                    <div className='sm:ml-10'>
                         <h1 className="text-5xl font-bold inline">I am a 
                         </h1>
                             <div className='text-[#E1A34C] text-5xl font-bold inline'>
