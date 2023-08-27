@@ -4,5 +4,8 @@
 :root{
   background-color: #131F33;
   color: #FFFFFF;
-  margin: 0 13%;
+  margin: 1rem 13%;
+  font-family: 'Roboto', sans-serif;
+}
+h1{
 }

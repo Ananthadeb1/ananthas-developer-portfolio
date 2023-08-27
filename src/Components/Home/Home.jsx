@@ -1,9 +1,16 @@
+import AboutMe from "../Sections/AboutMe/AboutMe";
+import Banner from "../Sections/Banner/Banner";
+import ContactMe from "../Sections/ContactMe/ContactMe";
+import Skills from "../Sections/Skills/Skills";
 
 
 const Home = () => {
     return (
         <div>
-           <p className="bg-red-600">this is home</p> 
+            <Banner></Banner> 
+            <AboutMe></AboutMe>
+            <Skills></Skills>
+            <ContactMe></ContactMe>
         </div>
     );
 };
