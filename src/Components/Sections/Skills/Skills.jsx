@@ -1,20 +1,20 @@
-
-
 const Skills = () => {
     return (
-        <div>
-            <div className='text-center pb-10'>
+        <div >
+            <div className='text-center pb-10 w-full'>
                 <p className='text-[#E1A34C]  uppercase pb-2'>-- s e t - s k i l l s</p>
                 <h1 className='text-5xl font-bold  '>Expertise</h1>
             </div>
-            <div className="grid justify-items-center sm:flex  sm:justify-between sm:ml-0">
-                <div className="w-2/4 sm:pr-7">
+            <div className="grid justify-items-center sm:flex  sm:justify-between ">
+
+                <div className="sm:w-2/4 sm:pr-7 w-3/4">
                     <div className="mb-16">
                         <div className="flex justify-between items-end">
                             <h1 className="sm:text-6xl text-xl">100%</h1>
+                            
                             <h1 className="text-xl">HTML</h1>
                         </div>
-                        <progress className="progress progress-warning  h-1 bg-[#2D384A]" value="100" max="100"></progress>
+                        <progress className="progress progress-warning  h-1 bg-[#2D384A] animate" value="100" max="100"></progress>
                     </div>
                     <div className="mb-16">
                         <div className="flex justify-between items-end">
@@ -62,7 +62,7 @@ const Skills = () => {
 
 
 
-                <div className="w-2/4 sm:pl-7">
+                <div className=" sm:w-2/4 sm:pl-7 w-3/4">
                     <div className="mb-16">
                         <div className="flex justify-between items-end">
                             <h1 className="sm:text-6xl text-xl">95%</h1>
