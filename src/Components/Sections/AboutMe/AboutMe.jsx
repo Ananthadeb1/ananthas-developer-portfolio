@@ -1,7 +1,7 @@
 import devgif from '../../../../public/dev.gif';
 const AboutMe = () => {
     return (
-        <div>
+        <div className='mb-10'>
             <div className='text-center pb-10'>
                 <p className='text-[#E1A34C]  uppercase pb-2'>-- I n t r o d u c t i o n</p>
                 <h1 className='text-5xl font-bold  '>Overview</h1>
