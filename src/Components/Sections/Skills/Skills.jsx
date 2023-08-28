@@ -79,10 +79,10 @@ const Skills = () => {
                     </div>
                     <div className="mb-16">
                         <div className="flex justify-between items-end">
-                            <h1 className="sm:text-6xl text-xl">90%</h1>
-                            <h1 className="text-xl">REACT</h1>
+                            <h1 className="sm:text-6xl text-xl">40%</h1>
+                            <h1 className="text-xl">NEXT JS</h1>
                         </div>
-                        <progress className="progress progress-warning  h-1 bg-[#2D384A]" value="90" max="100"></progress>
+                        <progress className="progress progress-warning  h-1 bg-[#2D384A]" value="40" max="100"></progress>
                     </div>
                     <div className="mb-16">
                         <div className="flex justify-between items-end">
