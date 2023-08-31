@@ -20,11 +20,11 @@ const Projects = () => {
                             <li>If a dog chews shoes whose shoes ?</li>
                         </ul>
                         <div className="flex justify-between">
-                        <a href="" className="btn btn-outline btn-warning btn-xs">live</a>
-                        <a href="" className="btn btn-outline btn-warning btn-xs">code</a>
+                        <a target="blank" href="https://assignment-12-summer-school.web.app/" className="btn btn-outline btn-warning btn-xs">live</a>
+                        <a target="blank" href="https://github.com/Ananthadeb1/summer-camp-client-side" className="btn btn-outline btn-warning btn-xs">code</a>
                         </div>
                         <div className="card-actions justify-end">
-                            <button className="btn ">Buy Now</button>
+                            <a target="blank" href="https://drive.google.com/file/d/1zKoeJe3X73OHh6-maTYQhdtBJztrZ0qs/view?usp=sharing" className="btn bg-[#E1A34C]  border-none text-white hover:bg-[#424C5C]">My Resume</a>
                         </div>
                     </div>
                 </div>
@@ -38,11 +38,11 @@ const Projects = () => {
                             <li>If a dog chews shoes whose shoes ?</li>
                         </ul>
                         <div className="flex justify-between">
-                        <a href="" className="btn btn-outline btn-warning btn-xs">live</a>
-                        <a href="" className="btn btn-outline btn-warning btn-xs">code</a>
+                        <a target="blank" href="https://toy-house-f433d.web.app/" className="btn btn-outline btn-warning btn-xs">live</a>
+                        <a target="blank" href="https://github.com/Ananthadeb1/toy-marketplace-client-side" className="btn btn-outline btn-warning btn-xs">code</a>
                         </div>
                         <div className="card-actions justify-end">
-                            <button className="btn ">Buy Now</button>
+                            <a target="blank" href="https://drive.google.com/file/d/1zKoeJe3X73OHh6-maTYQhdtBJztrZ0qs/view?usp=sharing" className="btn bg-[#E1A34C]  border-none text-white hover:bg-[#424C5C]">My Resume</a>
                         </div>
                     </div>
                 </div>
@@ -56,11 +56,11 @@ const Projects = () => {
                             <li>If a dog chews shoes whose shoes ?</li>
                         </ul>
                         <div className="flex justify-between">
-                        <a href="" className="btn btn-outline btn-warning btn-xs">live</a>
-                        <a href="" className="btn btn-outline btn-warning btn-xs">code</a>
+                        <a target="blank" href="https://chafe-assignment-10.web.app/" className="btn btn-outline btn-warning btn-xs">live</a>
+                        <a target="blank" href="https://github.com/Ananthadeb1/chef-recipe-hunter-client-side" className="btn btn-outline btn-warning btn-xs">code</a>
                         </div>
                         <div className="card-actions justify-end">
-                            <button className="btn ">Buy Now</button>
+                            <a target="blank" href="https://drive.google.com/file/d/1zKoeJe3X73OHh6-maTYQhdtBJztrZ0qs/view?usp=sharing" className="btn bg-[#E1A34C]  border-none text-white hover:bg-[#424C5C]">My Resume</a>
                         </div>
                     </div>
                 </div>
