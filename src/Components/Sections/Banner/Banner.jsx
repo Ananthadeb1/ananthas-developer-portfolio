@@ -19,8 +19,8 @@ const Banner = () => {
                             />
                             </div>
 
-                        <p className="py-6 text-xl text-[#7D838E]">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste error, exercitationem hic laudantium, vel voluptas maiores distinctio quae nisi quasi magni consectetur autem beatae similique mollitia rem repellendus quos commodi reiciendis minima accusamus amet! Dolorem sapiente provident, ab, officiis quidem facilis reiciendis amet, officia harum praesentium aperiam incidunt totam quam!</p>
-                        <a target="blank" href="https://drive.google.com/file/d/1zKoeJe3X73OHh6-maTYQhdtBJztrZ0qs/view?usp=sharing" className="btn bg-[#424C5C] border-none text-white hover:bg-[#E1A34C]">My Resume</a>
+                        <p className="py-6 text-xl text-[#7D838E]">Transforming Ideas into Exceptional Digital Experiences with MERN Stack Expertise.</p>
+                        <a target="blank" href="https://www.linkedin.com/in/anantha-debnath/" className="btn bg-[#424C5C] border-none text-white hover:bg-[#E1A34C]">Hire Me</a>
                     </div>
                 </div>
             </div>
