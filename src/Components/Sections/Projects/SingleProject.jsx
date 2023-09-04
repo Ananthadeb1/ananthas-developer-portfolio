@@ -18,7 +18,6 @@ const SingleProject = ({data}) => {
                         </div>
                         <div className="card-actions justify-end mt-4">
                             <Link to={`/project/${data.id}`}  className="btn bg-[#E1A34C]  border-none text-white hover:bg-[#424C5C]">Details</Link>
-                            {/* <Link to={`/ProjectDetails`} className="btn bg-[#E1A34C]  border-none text-white hover:bg-[#424C5C]">Details</Link> */}
                         </div>
                     </div>
                 </div>
