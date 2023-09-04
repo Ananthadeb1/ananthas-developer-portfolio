@@ -7,7 +7,7 @@ const Projects = () => {
     // const data = useLoaderData();
     const [datas, setDatas] = useState([]);
     useEffect(()=>{
-        fetch('data.json')
+        fetch('https://anantha-developer-portfolio-server.vercel.app/projects')
         .then(res=>res.json())
         .then(res => setDatas(res))
     },[])

@@ -11,6 +11,7 @@ import AboutMe from "./Components/Sections/AboutMe/AboutMe";
 import Skills from "./Components/Sections/Skills/Skills";
 import ContactMe from "./Components/Sections/ContactMe/ContactMe";
 import Projects from "./Components/Sections/Projects/Projects";
+import ProjectsDetails from "./Components/Sections/Projects/ProjectsDetails";
 
 const router = createBrowserRouter([
   {
@@ -35,12 +36,15 @@ const router = createBrowserRouter([
       },
       {
         path: "/projects",
-        element: <Projects></Projects>,
-        loader: ()=>{
-          fetch(`data.json`)
-        },
+        element: <Projects></Projects>
       },
       {
+        path: "/project/:id",
+        element: <ProjectsDetails></ProjectsDetails>,
+        loader:({params})=>
+          fetch(`https://anantha-developer-portfolio-server.vercel.app/project/${params.id}`)
+      },
+      {  
         path: "/blogs",
         element: <></>
       }
